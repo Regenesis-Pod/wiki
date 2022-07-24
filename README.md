@@ -3,7 +3,7 @@ The contents of this wiki document are intended to provide all the information t
 
 #### Documents
 
-* [Project Overview](https://github.com/Regenesis-Pod/wiki/wiki/Overview)
+* Project Overview - Updating
 * [Component Map On Session](https://github.com/Regenesis-Pod/wiki/wiki/Component-Map-On-Session)
 
 #### Building
