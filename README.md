@@ -4,7 +4,10 @@ The contents of this wiki document are intended to provide all the information t
 #### Documents
 
 * Project Overview - Updating
+* [How To Get POD ID?](https://github.com/Regenesis-Pod/wiki/wiki/How-to-get-pod_id%3F)
 * [Component Map On Session](https://github.com/Regenesis-Pod/wiki/wiki/Component-Map-On-Session)
+* [Environmental Settings](https://github.com/Regenesis-Pod/wiki/wiki/Environmental-Settings)
+* [Animate RGB Brightness Level](https://github.com/Regenesis-Pod/wiki/wiki/Animate-RGB-Brightness-Level)
 
 #### Building
 
